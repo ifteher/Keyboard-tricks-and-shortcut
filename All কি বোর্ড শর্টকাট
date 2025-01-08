@@ -47,3 +47,6 @@
 
 24)2714+Alt+X দিলে True sign(right sign) show হবে।
 
+25)Fronted developer programming html এ: h${title $}*3 এভাবে ৩ গুন লিখলে <h1>title 1</h1>  <h1>title 2</h1> 
+ <h1>title 3</h1> টাইটেল লিখার পুরাটা চলে আসে।
+
